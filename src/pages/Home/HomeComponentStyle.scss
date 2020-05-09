@@ -1,0 +1,22 @@
+.content {
+    padding: 30px 0;
+
+    .content__wrapper {
+        color: #212121;
+        margin: 0 auto;
+        max-width: 960px;
+        padding: 0 30px;
+    
+        .wrapper__title {
+            font-size: 18px;
+            font-weight: 500;
+            margin-bottom: 15px;
+        }
+    
+        .wrapper__text {
+            margin-bottom: 10px;
+
+            &:last-child { margin-bottom: 0; }
+        }
+    }
+}
