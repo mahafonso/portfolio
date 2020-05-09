@@ -26,3 +26,17 @@ OR
 ```
 gatsby develop
 ```
+
+## Deploy
+To generate the files for deploy, run the following:
+```
+npm build
+```
+OR
+```
+yarn build
+```
+OR
+```
+gatsby build
+```
