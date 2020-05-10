@@ -1,5 +1,7 @@
 .footer {
-    background: #A6A6A6;
+    background: #c2b6b6;
+
+    @media (max-width: 480px) { background: #576574; }
 
     .footer__wrapper {
         margin: 0 auto;
@@ -8,7 +10,7 @@
         text-align: center;
 
         .wrapper__content {
-            color: #212121;
+            color: #FFF;
             font-size: 12px;
 
             .content__link { text-decoration: underline; }
