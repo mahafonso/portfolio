@@ -3,13 +3,13 @@
 
     @media (max-width: 480px) { background: #576574; }
 
-    .footer__wrapper {
+    &__wrapper {
         margin: 0 auto;
         max-width: 960px;
         padding: 10px 0;
         text-align: center;
 
-        .wrapper__content {
+        &-content {
             color: #FFF;
             font-size: 12px;
 

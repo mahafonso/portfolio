@@ -3,7 +3,7 @@
 
     @media (max-width: 480px) { background: #576574; }
 
-    .header__wrapper {
+    &__wrapper {
         align-items: center;
         color: #FFF;
         display: flex;
@@ -13,7 +13,7 @@
 
         @media (max-width: 480px) { flex-flow: column; }
 
-        .wrapper__image {
+        &__image {
             background: url('../../../../static/images/profile.jpg');
             background-size: contain;
             border: 3px solid #FFF;
