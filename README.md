@@ -40,4 +40,4 @@ OR
 ```
 gatsby build
 ```
-The final files for deploy, minified and compressed, will be on build folder.
+The final files for deploy, minified and compressed, will be on public folder.
