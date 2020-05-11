@@ -35,7 +35,7 @@ export default () => {
 
                     <p class="wrapper__text">
                         Além da paixão por tecnologia, também sou apaixonada por dogs, viagens e idiomas! Adoro conhecer novos lugares, culturas, costumes e histórias. Já conheci alguns países, aprendi inglês, italiano e estou aprendendo francês :) <br />
-                        Tenho um <a href="https://www.instagram.com/wanderlust.wworld/" title="Instagram - wanderlust.wworld" class="text__link">Instagram</a> com dicas de viagens e uma ideia inicial de um <a href="https://wanderlustwworld.com/" title="Wanderlust World" class="text__link">blog</a> sobre o mesmo assunto, feito em Wordpress.
+                        Tenho um <a href="https://www.instagram.com/wanderlust.wworld/" title="Instagram - wanderlust.wworld" class="text__link" target="_blank">Instagram</a> com dicas de viagens e uma ideia inicial de um <a href="https://wanderlustwworld.com/" title="Wanderlust World" class="text__link" target="_blank">blog</a> sobre o mesmo assunto, feito em Wordpress.
                     </p>
                 </div>
             </section>
