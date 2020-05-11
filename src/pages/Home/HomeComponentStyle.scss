@@ -14,6 +14,8 @@
         .wrapper__text {
             margin-bottom: 10px;
 
+            .text__link { text-decoration: underline; }
+
             &:last-child { margin-bottom: 0; }
         }
     }
