@@ -22,15 +22,17 @@ export default () => {
                     </p>
 
                     <p class="wrapper__text">
-                        Profissionalmente trabalhei em startup, agência de publicidade e e-commerces. Trabalhei com várias tecnologias e pude aprender bastante além do básico HTML e CSS: JavaScript, jQuery, React, Angular, TypeScript, Bootstrap, SASS, LESS, styled-components, PhoneGap, Gulp, Babel. Para versionamento, SVN e Git (Bitbucket, GitHub e GitLab). E grande experiência com a metodologia ágil SCRUM.
+                        Profissionalmente trabalhei em startup, agência de publicidade e e-commerces. Trabalhei com várias tecnologias e pude aprender bastante além do básico HTML e CSS: JavaScript, jQuery, React, Next.js, Angular, TypeScript, Bootstrap, SASS, LESS, styled-components, stylus, nunjucks, PhoneGap, Gulp, Babel. Para versionamento, SVN e Git (Bitbucket, GitHub e GitLab). E grande experiência com a metodologia ágil SCRUM.
                         <br />
                         Trabalhei para clientes como Whirlpool (CompraCerta, Brastemp, Consul, KitchenAid), B.blend, Itau, Terra, além de nas empresas Marcyn, Avec e Boticário (onde estou atualmente). Definitivamente minha maior experiência foi com e-commerce, utilizando a plataforma Vtex, mas também já desenvolvi sites institucionais, landing pages e e-mails marketing, além de uma implementação de chatbot utilizando API de terceiros para gerar perguntas e respostas.
+                        <br />
+                        No momento, trabalho com a plataforma de e-commerce própria da empresa, dividida em diversos módulos, cada um possuindo uma linguagem ou framework (JS, Angular, React, Next, stylus, styled-component, Styled System).
                         <br />
                         Tive a oportunidade de dar suporte à equipe de CRO, desenvolvendo alguns Testes AB e automatizando a coleta e exibição de dados do Google Analytics em tabelas e gráficos no Google Sheet para melhor apresentação e análise.
                     </p>
 
                     <p class="wrapper__text">
-                        Na área de tecnologia tudo está sempre mudando e surgindo coisas novas, então procuro sempre me atualizar e ter uma visão geral sobre o que está acontecendo, sobre as novas tendências. Para isso, faço alguns cursos ou me aventuro em alguma linguagem ou tecnologia nova, desenvolvendo sites pessoais. Apesar de não usar profissionalmente, procuro aprender fazendo coisas pra mim. Esse site foi desenvolvido com Gatsby e desenvolvi esse (site) em Next.js.
+                        Na área de tecnologia tudo está sempre mudando e surgindo coisas novas, então procuro sempre me atualizar e ter uma visão geral sobre o que está acontecendo, sobre as novas tendências. Para isso, faço alguns cursos ou me aventuro em alguma linguagem ou tecnologia nova, desenvolvendo sites pessoais. Apesar de não usar profissionalmente, procuro aprender fazendo coisas pra mim. Esse site foi desenvolvido com Gatsby.
                     </p>
 
                     <p class="wrapper__text">
